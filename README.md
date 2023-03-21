@@ -1,7 +1,11 @@
 ### Hi there 👋
-FILES THAT ARE HERE ARE NOT MINE, BUT MODIFIED BY ME
+FILES THAT ARE HERE ARE NOT MINE, BUT MODIFIED BY ME:
+
 virgil font is from excalidraw
-other things are from the synthwave84 better discord theme
+https://virgil.excalidraw.com/
+
+other things are from the synthwave84 better discord theme: https://github.com/CelestialReaver/BetterDiscord/tree/main/themes/Synthwave84
+
 <!--
 **AFrenchCroissant/AFrenchCroissant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
