@@ -1,0 +1,16 @@
+@import url("https://github.com/AFrenchCroissant/AFrenchCroissant/blob/main/Font/Virgil.woff2?raw=true");
+@import url("https://github.com/AFrenchCroissant/AFrenchCroissant/blob/main/Font/Virgil.woff2?raw=true");
+
+:root {
+  --font-primary: var(--customFont), "Whitney";
+  --font-display: var(--customFont), "Whitney";
+}
+
+::placeholder,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: var(--customFont) !important;
+}
